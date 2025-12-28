@@ -1,5 +1,3 @@
-# Vehicle-record-managemnt-system
-The **Vehicle Record Management System** is a desktop application developed with **Python and CustomTkinter** that allows administrators to store, manage, and retrieve vehicle-related information efficiently.   The system uses an **admin login mechanism** to ensure authorized access to vehicle records.
 
 # Vehicle Record Management System
 
@@ -55,20 +53,21 @@ README.md # Project documentation
 ---
 
 ## Installation & Setup
- 1. Clone the Repository
-```bash
 
+```bash
+1-
 git clone <repository-url>
 cd vehicle-record-management-system
 
+---
 
-2. Install Dependencies
+2-
 pip install -r requirements.txt
 
-3. Initialize the Database
+3-
 
 Run the db_init.sql file using SQL or any compatible SQL tool to create tables and admin credentials.
 
-4. Run the Application
+4. -
 python app_ctk_login.py
 
